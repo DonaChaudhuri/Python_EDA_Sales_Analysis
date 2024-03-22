@@ -4,5 +4,5 @@ Here is the data for Diwali sale and the vendor wants insights on the basis of t
 Through this process, I've sifted through the data, examined various measures, visualized comparisons, and probed relationships among different variables. 
 This comprehensive exploration has allowed me to gain a deeper understanding of the dataset's characteristics and extract meaningful conclusions to inform decision-making processes.
 The Key learnings from the EDA:
- - improved customer experience by identifying potencial customers across different states, occupation, gender and age groups.
+ - improved customer experience by identifying potential customers across different states, occupation, gender and age groups.
  - improved sales by identifying most selling product categories and products, which can help inventory and hence meet the demands.
